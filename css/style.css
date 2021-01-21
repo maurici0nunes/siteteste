@@ -877,7 +877,7 @@ input[type="radio"] .styled:checked + label::after {
 }
 
 .about .img-box a:hover {
-  border: #002c41 solid 1px;
+  border: #b2dff3 solid 1px;
   background: #0095d9;
 }
 
@@ -1003,8 +1003,8 @@ input[type="radio"] .styled:checked + label::after {
   padding-top: 55px;
 }
 
-.footer .address p {
-  font-family: 'PT Sans', 'sans-serif';
+.footer .address p, .footer .address p a {
+  font-family: "PT Sans", "sans-serif";
   font-size: 16px;
   color: #b2dff3;
 }
@@ -1071,67 +1071,6 @@ input[type="radio"] .styled:checked + label::after {
 
 .copyright a:hover {
   color: #0095d9;
-}
-
-/*---------------------------------------------------------------------
-    ener page css
----------------------------------------------------------------------*/
-
-.about-bg {
-  background-color: #ad2100;
-  margin-bottom: 90px;
-}
-
-.about-bg .abouttitle h2 {
-  color: #fff;
-  text-transform: uppercase;
-  font-size: 40px;
-  line-height: 45px;
-  padding: 40px 0;
-  font-weight: 500;
-  text-align: center;
-}
-
-.Currency-bg {
-  background-color: #ad2100;
-}
-
-.Currency-bg .abouttitle h2 {
-  color: #fff;
-  text-transform: uppercase;
-  font-size: 40px;
-  line-height: 45px;
-  padding: 40px 0;
-  font-weight: 500;
-  text-align: center;
-}
-
-.Request-bg {
-  background-color: #ad2100;
-}
-
-.Request-bg .abouttitle h2 {
-  color: #fff;
-  text-transform: uppercase;
-  font-size: 40px;
-  line-height: 45px;
-  padding: 40px 0;
-  font-weight: 500;
-  text-align: center;
-}
-
-.Team-bg {
-  background-color: #ad2100;
-}
-
-.Team-bg .abouttitle h2 {
-  color: #fff;
-  text-transform: uppercase;
-  font-size: 40px;
-  line-height: 45px;
-  padding: 40px 0;
-  font-weight: 500;
-  text-align: center;
 }
 
 /** slider arrow **/
